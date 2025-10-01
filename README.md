@@ -25,6 +25,7 @@
 | Discrete Mathematics (2)         | 25Spr  | [https://github.com/wannabeyourfriend/THU-CST-DM2-2025spring]       | N/A                                                                     |
 | Elementary Probability Theory    | 24Fall | [https://github.com/wannabeyourfriend/THU-TCSS-Prob-2024fall]     | N/A                                                                     |
 | Statistical Inference            | 24Fall | [https://github.com/wannabeyourfriend/THU-TCSS-SI-2024fall]         | N/A                                                                     |
+| Numerical Analysis | 25Fall | [https://github.com/wannabeyourfriend/sisylanA-laciremuN-ot-noitcudortnI-A071HTAM] | N/A |
 
 ---
 
@@ -36,4 +37,6 @@
 | Introduction to Programming      | 24Spr  | [https://github.com/wannabeyourfriend/THU-CST-ICP-2024spring]       | [https://github.com/wannabeyourfriend/UNO-card-game-EasyX] |
 | Linux-based C++                  | 24Sum  | [https://github.com/wannabeyourfriend/THU-CST-LinuxCPP-2024summer] | [https://github.com/wannabeyourfriend/linux-cpp-server-lab] |
 | Fundamentals of Computer Science | 23Fall | [https://github.com/wannabeyourfriend/THU-CST-FCS-2023fall]         | N/A                                                                     |
-| Data Structures (Self-learning)  | 25Win  | [https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn] | N/A |
+| Basic Data Structures  | 25Fall  | [https://github.com/wannabeyourfriend/PKU-EECS-DSA-2025winter-self-learn] | N/A |
+| Advanced Data Structures | 25Fall | [https://github.com/wannabeyourfriend/serutcurts-ataD-decnavdA-001ESC] | N/A |
+| Software Engineering | 25Fall | [https://github.com/wannabeyourfriend/gnireenignE-erawtfoS-011ESC] | N/A |
