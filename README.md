@@ -8,6 +8,7 @@
 | Course Name                                      | Term   | Assignments / Homework                                                                 | Project                                                                 |
 | ------------------------------------------------ | ------ | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Artificial Intelligence Introduction                      | 25Spr  | [https://github.com/wannabeyourfriend/THU-CST-IAI-2025spring]       | N/A                                                                     |
+｜ Machine Learning ｜ 25Fall ｜ [https://github.com/wannabeyourfriend/gninraeL-enihcaM-A151ESC] | N/A |
 | Deep Learning                                | 25Spr  | [https://github.com/wannabeyourfriend/THU-DL-IIIS-2025spring]       | N/A                                                                     |
 | Deep Reinforcement Learning                  | 25Spr  | [https://github.com/wannabeyourfriend/THU-IIIS-DRL-2025spring]     | [https://github.com/wannabeyourfriend/EgoReasoner]   |
 | Embodied Artificial Intelligence             | 25Spr  | [https://github.com/wannabeyourfriend/PKU-EECS-EAI-2025spring]     | N/A                                                                     |
